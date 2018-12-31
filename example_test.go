@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/LincolnEthan/oauth2"
+	"github.com/linthan/oauth2"
 )
 
 func ExampleConfig() {

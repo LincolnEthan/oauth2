@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/LincolnEthan/oauth2"
+	"github.com/linthan/oauth2"
 	//"io/ioutil"
 	"github.com/pkg/errors"
 )
